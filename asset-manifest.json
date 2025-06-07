@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sankhyadhar/static/css/main.f722459f.css",
+    "main.js": "/Sankhyadhar/static/js/main.8ab5c039.js",
+    "static/js/453.ed3810f9.chunk.js": "/Sankhyadhar/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Sankhyadhar/index.html",
+    "main.f722459f.css.map": "/Sankhyadhar/static/css/main.f722459f.css.map",
+    "main.8ab5c039.js.map": "/Sankhyadhar/static/js/main.8ab5c039.js.map",
+    "453.ed3810f9.chunk.js.map": "/Sankhyadhar/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f722459f.css",
+    "static/js/main.8ab5c039.js"
+  ]
+}
